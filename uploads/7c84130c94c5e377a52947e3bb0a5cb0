@@ -1,0 +1,27 @@
+Unit III: SERVICE LAYER PROTOCOLS & SECURITY
+
+Service Layer -oneM2M, ETSI
+M2M, OMA, BBF – Security in IoT Protocols – MAC 802.15.4 , 6LoWPAN, RPL
+Security Requirements in IoT Architecture - Security in Enabling Technologies
+- Security Concerns in IoT Applications. Security Architecture in the
+Internet of Things - Security Requirements in IoT - Insufficient
+Authentication/Authorization - Insecure Access Control - Threats to Access
+Control, Privacy, and Availability - Attacks Specific to IoT. Vulnerabilities
+– Secrecy and Secret-Key Capacity - Authentication/Authorization for Smart
+Devices - Transport Encryption – Attack & Fault trees
+
+
+
+
+Unit IV: CRYPTOGRAPHIC FUNDAMENTALS FOR IOT
+
+Cryptographic primitives and
+its role in IoT – Encryption and Decryption – Hashes – Digital Signatures –
+Random number generation – Cipher suites – key management fundamentals –
+cryptographic controls built into IoT messaging and communication protocols –
+IoT Node Authentication
+
+
+
+
+Aug(8) 2021 - Aug(8) 2022

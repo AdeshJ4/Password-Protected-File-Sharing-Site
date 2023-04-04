@@ -1,0 +1,28 @@
+File picker
+Keeping track of file how many times it downloaded
+
+express : Fast, unopinionated, minimalist web framework for Node.js.
+Mongoose: Mongoose is a MongoDB object modeling tool designed to work in an asynchronous environment.
+Multer: Multer is a node.js middleware for handling multipart/form-data, which is primarily used for 
+        uploading files.
+        This library just takes care of file uploads
+
+
+Project Description: 
+-------------------
+1. we can choose any file we want to send to our friend and also we can give password for that file. 
+   giving password is optional.
+2. after that we can click on share button and it will generate the link and you can send this link to 
+   your friend.
+3. on your friend side this link will ask for a password and after giving password it will ask download 
+   location for that file.
+4. There is one more functionality which is we can keep track of how many times different files are  
+   downloaded and so on all inside of our database.
+
+
+
+
+upload.single("file") -> This helps to read multipart/form-data.
+
+Note : express by default doesn't know how t use a normal form so we need to tell it how to use a normal form.
+       write : 
